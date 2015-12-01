@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hallo my name is Simphiwe
+=======
+Hi my name is Kulani, and I am helping Simphiwe but he is ignoring me.
+>>>>>>> ce9d7eb8a5ddbb60e092206de7e9397c7c418a09
